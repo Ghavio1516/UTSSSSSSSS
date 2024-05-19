@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTSSSSSSSS</string>
+    <string name="title_activity_bottomnav">Bottomnav</string>
+    <string name="title_activity_HomeFragment">HomeFrag</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Berita</string>
+    <string name="title_notifications">Profile</string>
+    <string name="tentang_aplikasi">Tentang aplikasi</string>
+</resources>
